@@ -47,3 +47,11 @@ while(dev.isCoding() && dev.isStuck())
   dev.getPromoted();
 }
 ```
+
+## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
+
+<a href="mailto:markariscotes99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"><img src=""/></a> &nbsp;
+
+    
+    
