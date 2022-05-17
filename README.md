@@ -3,8 +3,9 @@
     <img src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-10-13-04-10-78.gif" width="36" height="25"/> 
  
 ## <img src="https://cdn-icons.flaticon.com/png/512/924/premium/924915.png?token=exp=1652774160~hmac=468b52038500059675df5b2771f2f6fd"  width="30">&nbsp;About me 
-- 👩‍💻  **Currently a Mechanical Design Engineer on a Japanese Company.**
+- 👩‍💻  **Currently working as a Mechanical Design Engineer on a Japanese Company.**
 - 🔭 I’m currently working on my Frontend skills with more focus in **JavaScript**.
+- 🤪 **Mechanical Engineer** at day, **Software Engineer** at night.
 - 🎓 I'm a license Mechanical Engineer and have **serious passion in programming**.
 - 🌱 I’m open to learn anything about Web Development or any programming language.
 - 💬 Ask me about what I know in front end.
@@ -68,7 +69,3 @@ while(dev.isCoding() && dev.isStuck())
 <a href="mailto:markariscotes99@gmail.com"  target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="https://www.facebook.com/markmariscotes1994/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
-
-
-    
-    
