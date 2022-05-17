@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/1c/79/2a/1c792a600dccb2c99fce6cca441a0935.gif" width="25" height="25"/>
     <img src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-10-13-04-10-78.gif" width="36" height="25"/> 
  
-## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About me
+## <img src="https://cdn-icons.flaticon.com/png/512/924/premium/924915.png?token=exp=1652774160~hmac=468b52038500059675df5b2771f2f6fd"  width="30">&nbsp;About me 
 - 👩‍💻  **Currently a Mechanical Design Engineer on a Japanese Company.**
 - 🔭 I’m currently working on my Frontend skills with more focus in **JavaScript**.
 - 🎓 I'm a license Mechanical Engineer and have **serious passion in programming**.
@@ -12,7 +12,9 @@
 - 🥅 2022 Goals: **JavaScript Expert**
 - 📍 Location: Pasay City, Philippines
 - ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language. 
-
+    
+---
+    
 ```javascript
 const name = "Mark Mariscotes";
 document.write("Hello, my friend");
@@ -46,8 +48,9 @@ while(dev.isCoding() && dev.isStuck())
   dev.getPromoted();
 }
 ```
+---  
     
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Languages & Platforms
+## <img src="https://cdn-icons-png.flaticon.com/512/358/358903.png" width="30"> &nbsp;Languages & Platforms
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -59,13 +62,12 @@ while(dev.isCoding() && dev.isStuck())
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
       
 ---
-## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
+    
+## <img src="https://cdn-icons.flaticon.com/png/512/2449/premium/2449714.png?token=exp=1652774002~hmac=4dbf920db84cedbf7b08065bf11ed841" width="30">&nbsp; Contact me
 
 <a href="mailto:markariscotes99@gmail.com"  target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="https://www.facebook.com/markmariscotes1994/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
-
----
 
 
     
