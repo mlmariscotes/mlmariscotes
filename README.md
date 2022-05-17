@@ -47,6 +47,7 @@ while(dev.isCoding() && dev.isStuck())
   dev.pasteCodeInIde();
   dev.feelProfessional();
   dev.getPromoted();
+  dev.moreWorkLoad();
 }
 ```
 ---  
