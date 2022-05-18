@@ -11,7 +11,7 @@
 - 💬 Ask me about what I know in front end.
 - 😄 Pronouns: he / him / his
 - 🥅 2022 Goals: **JavaScript Expert**
-- 📍 Location: Pasay City, Philippines
+- 📍  Location: Pasay City, Philippines
 - ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language. 
     
 ---
