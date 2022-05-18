@@ -46,8 +46,8 @@ while(dev.isCoding() && dev.isStuck())
   dev.lookAtCodeNodding();
   dev.pasteCodeInIde();
   dev.feelProfessional();
-    
-  return(dev.getPromoted(), dev.moreWorkLoad());
+  dev.getPromoted();
+  dev.moreWorkLoad();
 }
 ```
 ---  
