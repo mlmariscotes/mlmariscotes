@@ -22,7 +22,7 @@ document.write("Hello, my friend");
 
 const status = 
 { 
-  Focus     : [JavaScript, Python, C#, Dapp],
+  Focus     : [JavaScript, ReactJS, NodeJS],
   Interests : [Nft, Stocks, Forex, Crypto, Dog, Cat]
 }
 
