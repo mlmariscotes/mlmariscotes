@@ -39,16 +39,13 @@ let skills =
 
 Developer dev = new Developer(mlmariscotes);
 
-while(dev.isCoding() && dev.isStuck())  
-{
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.lookAtCodeNodding();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
-  dev.getPromoted();
-  dev.moreWorkLoad();
+while (dev.IsCoding === true && dev.IsStuck === true) {
+    console.log('Open Stack Over Flow');
+    if (dev.IsCoding === true && dev.IsStuck !== true) {
+        console.log('Feel Professional/Genius');
+    }
 }
+
 ```
 ---  
     
