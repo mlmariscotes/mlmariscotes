@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm MARK 😎 <img src="https://media1.giphy.com/avatars/tontonfriends/oR1fkkiDPgSG.gif" width="25" height="25"/>
+<h2> Hi there 👋 I'm MARK <img src="https://media1.giphy.com/avatars/tontonfriends/oR1fkkiDPgSG.gif" width="25" height="25"/>
     <img src="https://i.pinimg.com/originals/1c/79/2a/1c792a600dccb2c99fce6cca441a0935.gif" width="25" height="25"/>
     <img src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-10-13-04-10-78.gif" width="36" height="25"/> 
  
