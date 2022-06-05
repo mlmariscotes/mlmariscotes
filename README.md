@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/1c/79/2a/1c792a600dccb2c99fce6cca441a0935.gif" width="25" height="25"/>
     <img src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-10-13-04-10-78.gif" width="36" height="25"/> 
  
-## <img src="https://cdn-icons.flaticon.com/png/512/924/premium/924915.png?token=exp=1652788004~hmac=0993247549381209abf75ebb9a580adf"  width="30">&nbsp;About me 
+## <img src="https://cdn-icons.flaticon.com/png/512/924/premium/924915.png?token=exp=1654417759~hmac=198732b6ee3eae4ee12b1332b90b45d7"  width="30">&nbsp;About me 
 - 👩‍💻  **Currently working as a Mechanical Design Engineer on a Japanese Company.**
 - 🔭 I’m currently working on my Frontend skills with more focus in **JavaScript**.
 - 🤪 **Mechanical Engineer** at day, **Software Engineer** at night.
@@ -62,7 +62,7 @@ while (dev.IsCoding === true && dev.IsStuck === true) {
       
 ---
     
-## <img src="https://cdn-icons.flaticon.com/png/512/2449/premium/2449714.png?token=exp=1652788085~hmac=4b656b1e6bb61ad75c3f40a38dc66fb2" width="30">&nbsp; Contact me
+## <img src="https://cdn-icons-png.flaticon.com/512/3771/3771518.png" width="30">&nbsp; Contact me
 
 <a href="mailto:markariscotes99@gmail.com"  target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
