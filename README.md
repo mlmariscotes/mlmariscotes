@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/1c/79/2a/1c792a600dccb2c99fce6cca441a0935.gif" width="25" height="25"/>
     <img src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-10-13-04-10-78.gif" width="36" height="25"/> 
  
-## <img src="https://cdn-icons.flaticon.com/png/512/924/premium/924915.png?token=exp=1654417759~hmac=198732b6ee3eae4ee12b1332b90b45d7"  width="30">&nbsp;About me 
+## <img src="https://cdn-icons-png.flaticon.com/512/7570/7570776.png"  width="30">&nbsp;About me 
 - 👩‍💻  **Currently working as a Mechanical Design Engineer on a Japanese Company.**
 - 🔭 I’m currently working on my Frontend skills with more focus in **JavaScript**.
 - 🤪 **Mechanical Engineer** at day, **Software Engineer** at night.
