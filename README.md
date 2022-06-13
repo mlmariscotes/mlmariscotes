@@ -14,6 +14,9 @@
 - 📍  Location: Pasay City, Philippines
 - ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language. 
     
+#### `CodeWar Rank`    
+<img src="https://www.codewars.com/users/mlmariscotes/badges/large" alt="My Rank">  
+    
 ---
     
 ```javascript
