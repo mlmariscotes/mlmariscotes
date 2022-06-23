@@ -12,11 +12,17 @@
 - 📍  Location: Pasay City, Philippines
 - ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language.  -->
  
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mlmariscotes&show_icons=true&theme=radical" />
-<img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
+<!-- Source Layout & Badges 
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/Ileriayo/markdown-badges
+-->
+ 
 
-## <img align="center" width="30" src="https://docs.codewars.com/logo.svg" />&nbsp;Codewar Rank
-<img src="https://www.codewars.com/users/mlmariscotes/badges/large" alt="My Rank">
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mlmariscotes&show_icons=true&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
+
+
+## <img align="center" src="https://www.codewars.com/users/mlmariscotes/badges/large" />&nbsp;Codewar Rank 
 
     
 ```javascript
@@ -50,7 +56,6 @@ while (dev.IsCoding === true && dev.IsStuck === true) {
 }
 
 ```
----  
     
 ## <img src="https://cdn-icons-png.flaticon.com/512/358/358903.png" width="30"> &nbsp;Languages & Platforms
 
@@ -63,10 +68,10 @@ while (dev.IsCoding === true && dev.IsStuck === true) {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
       
----
+
     
 ## <img src="https://cdn-icons-png.flaticon.com/512/3771/3771518.png" width="30">&nbsp; Contact me
 
 <a href="mailto:markariscotes99@gmail.com"  target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> &nbsp;
-<a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
+<a href="https://www.linkedin.com/in/mark-mariscotes-042b8212b/"  target="_blank"><img src="https://img.shields.io/badge/mlmariscotes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="https://www.facebook.com/markmariscotes1994/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
