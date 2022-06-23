@@ -13,12 +13,11 @@
 - ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language.  -->
  
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mlmariscotes&show_icons=true&theme=radical" />
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
+<img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
 
 ## <img align="center" width="30" src="https://docs.codewars.com/logo.svg" />&nbsp;Codewar Rank
 <img src="https://www.codewars.com/users/mlmariscotes/badges/large" alt="My Rank">
 
----
     
 ```javascript
 const name = "Mark Mariscotes";
