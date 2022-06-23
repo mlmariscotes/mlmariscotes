@@ -1,6 +1,6 @@
-<h2> Hi There, I'm Mark 👋 
+## Hi There, I'm Mark 👋 
  
-## <img src="https://cdn-icons-png.flaticon.com/512/7570/7570776.png"  width="30">&nbsp;About me 
+<!-- ## <img src="https://cdn-icons-png.flaticon.com/512/7570/7570776.png"  width="30">&nbsp;About me 
 - 👩‍💻  **Currently working as a Mechanical Design Engineer on a Japanese Company.**
 - 🔭 I’m currently working on my Frontend skills with more focus in **JavaScript**.
 - 🤪 **Mechanical Engineer** at day, **Software Engineer** at night.
@@ -10,12 +10,14 @@
 - 😄 Pronouns: he / him / his
 - 🥅 2022 Goals: **JavaScript Expert**
 - 📍  Location: Pasay City, Philippines
-- ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language. 
-    
----   
-## <img src="https://docs.codewars.com/logo.svg" width="30">&nbsp;Codewar Rank
-<img src="https://www.codewars.com/users/mlmariscotes/badges/large" alt="My Rank">  
-    
+- ⚡ Fun fact: My first code is a backtesting Algo for my trading strategy using AFL language.  -->
+ 
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mlmariscotes&show_icons=true&theme=radical" />
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
+
+## <img align="center" width="30" src="https://docs.codewars.com/logo.svg" />&nbsp;Codewar Rank
+<img src="https://www.codewars.com/users/mlmariscotes/badges/large" alt="My Rank">
+
 ---
     
 ```javascript
