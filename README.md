@@ -22,7 +22,7 @@ https://github.com/Ileriayo/markdown-badges
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmariscotes&layout=compact" />
 
 
-## <img align="center" src="https://www.codewars.com/users/mlmariscotes/badges/large" />&nbsp;Codewar Rank 
+## <img align="center" width="400px" src="https://www.codewars.com/users/mlmariscotes/badges/large" />&nbsp;Codewar Rank 
 
     
 ```javascript
