@@ -43,7 +43,7 @@ let skills =
   
   frameworks:[Bootstrap, NodeJs],
     
-  others    :[Sleeping, Walking, Breathing]     
+  others    :[Sleeping]     
 }
 
 Developer dev = new Developer(mlmariscotes);
